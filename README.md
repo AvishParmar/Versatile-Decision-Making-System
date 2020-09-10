@@ -1,1 +1,2 @@
 # Versatile-Decision-Making-System
+This program provides the general layout of an automated helper system typically used by banks and retail stores to provide answers to the caller's questions in a timely fashion. This program works by asking questions and provides a choice of answers which may reflect the caller's concern. Using a ternary tree implementation, the system is able to narrow down the customer's concern and provide an answer to their problem.  

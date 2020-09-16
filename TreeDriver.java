@@ -1,14 +1,9 @@
-package Homework4;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 /**
  * TreeDriver class that is the main method of the program
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
- * Recitation: Section 01
  */
 public class TreeDriver {
 

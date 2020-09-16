@@ -4,10 +4,6 @@ import java.util.Scanner;
 /**
  * Tree class that creates the tree and does operations on it
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
- * Recitation: Section 01
  */
 public class Tree {
 	

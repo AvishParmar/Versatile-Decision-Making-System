@@ -1,5 +1,3 @@
-package Homework4;
-
 import java.util.Scanner;
 /**
  * Tree class that creates the tree and does operations on it
